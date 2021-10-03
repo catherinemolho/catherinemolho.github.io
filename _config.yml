@@ -48,9 +48,9 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: jorgeapenas # your GitHub user name
+github_username: catherinemolho # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: jorgeapenas # your Twitter handle
+twitter_username: catherinemolho # your Twitter handle
 linkedin_username: # your LinkedIn user name
 scholar_userid: F6XuOUEAAAAJ&hl=en # your Google Scholar ID
 orcid_id: 0000-0002-4137-1823 # your ORCID ID
@@ -67,8 +67,8 @@ dblp_url: # your DBLP profile url
 contact_note: # >
 #  You can even add a little note about which of these is the best way to reach you.
 
-google_analytics: G-WC3YN7VYR9 # UA-XXXXXXXXX # out your google-analytics code
-panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
+# google_analytics: G-WC3YN7VYR9 # UA-XXXXXXXXX # out your google-analytics code
+# panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -223,5 +223,3 @@ popper:
 medium_zoom:
   version: "1.0.6"
   integrity: "sha256-EdPgYcPk/IIrw7FYeuJQexva49pVRZNmt3LculEr7zM="
-
-github: [metadata]
