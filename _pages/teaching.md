@@ -6,7 +6,7 @@ description: courses taught since 2017
 nav: true
 ---
 
-### 2020/2021 (spring)
+<!-- ### 2020/2021 (spring)
 
 - "Mathematical models of social evolution". [Toulouse Summer School in Quantitative Social Sciences](https://www.tse-fr.eu/toulouse-summer-school-quantitative-social-sciences){:target="\_blank"}.
 
@@ -53,7 +53,7 @@ and
 
 - "Economics and Evolution" (co-taught with [Ingela Alger](https://ingelaalger.weebly.com/){:target="\_blank"}, Jean-Pierre Amigues, [Paul Seabright](https://paulseabright.com/){:target="\_blank"}, and
 [Jörgen Weibull](https://sites.google.com/site/joergenweibull/){:target="\_blank"}).
-[Doctoral program](https://www.tse-fr.eu/doctoral-program){:target="\_blank"}.
+[Doctoral program](https://www.tse-fr.eu/doctoral-program){:target="\_blank"}. -->
 
 <!--For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 

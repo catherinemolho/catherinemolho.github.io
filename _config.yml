@@ -13,7 +13,7 @@ footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
-icon: 🧮 # the emoji used as the favicon
+icon: # the emoji used as the favicon
 url:  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
@@ -52,14 +52,14 @@ github_username: catherinemolho # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: catherinemolho # your Twitter handle
 linkedin_username: # your LinkedIn user name
-scholar_userid: F6XuOUEAAAAJ&hl=en # your Google Scholar ID
-orcid_id: 0000-0002-4137-1823 # your ORCID ID
+scholar_userid: # your Google Scholar ID
+orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: Jorge-Pena-9 # your profile on ResearchGate
+research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: https://www.iast.fr/people/jorge-pena # work page URL
+work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
@@ -74,9 +74,9 @@ contact_note: # >
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: It is easy to show  # your blog must have a name for it to show up in the nav bar
-blog_description: correcting typos and mistakes, and filling gaps in theoretical papers (coming out soon)
-permalink: /blog/:year/:title/
+blog_name: # your blog must have a name for it to show up in the nav bar
+blog_description:
+permalink:
 
 # Pagination
 pagination:
@@ -152,14 +152,14 @@ github: [metadata]
 
 scholar:
 
-  last_name: Peña
-  first_name: ["Jorge", "J."]
+  last_name: Molho
+  first_name: ["Catherine", "C."]
 
   style: apa
   locale: en
 
   source: /_bibliography/
-  bibliography: papers.bib
+  bibliography: publications.bib
   bibliography_template: bib
 
   replace_strings: true
