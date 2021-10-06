@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # the website title (if blank, full name will be used instead)
+title: Catherine Molho # the website title (if blank, full name will be used instead)
 first_name: Catherine
 middle_name:
 last_name: Molho
@@ -48,15 +48,15 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: catherinemolho # your GitHub user name
+github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: catherinemolho # your Twitter handle
-linkedin_username: Catherine Molho # your LinkedIn user name
+linkedin_username: # your LinkedIn user name
 scholar_userid: GVWPYFMAAAAJ # your Google Scholar ID
 orcid_id: https://orcid.org/0000-0002-2846-2544 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
-publons_id: S-8396-2019 # your ID on Publons
+publons_id: # your ID on Publons
 research_gate_profile: https://www.researchgate.net/profile/Catherine-Molho # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: https://www.behavioralethics.org/author/catherine-molho/ # work page URL
