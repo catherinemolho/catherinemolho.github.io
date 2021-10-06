@@ -70,7 +70,7 @@
       <div class="periodical">
       {% if entry.type == "article" %}
         <em>{{entry.journal}}</em>
-      {% elsif entry.type == "inproceedings" %}
+      {% elsif entry.type == "incollection" %}
         <em>In {{entry.booktitle}}</em>
       {% endif %}
       {% if entry.year %}
