@@ -1,74 +1,100 @@
-"Arranz":
-  - firstname: ["Jordi", "J."]
-    url: https://www.researchgate.net/profile/Jordi_Arranz
+"Arriaga":
+  - firstname: ["Ximena"]
+    url: https://www.purdue.edu/hhs/psy/directory/faculty/Arriaga_Ximena.html
 
-"Berchtold":
-  - firstname: ["André", "J."]
-    url: https://www.researchgate.net/profile/Andre-Berchtold
+"Balliet":
+  - firstname: ["Daniel"]
+    url: https://www.vupsy.nl/staff-members/daniel-balliet/
 
-"Brown":
-  - firstname: ["Sam", "Sam P.", "S. P."]
-    url: https://brownlab.biology.gatech.edu/
-
-"Buesser":
-  - firstname: ["Pierre", "P."]
-    url: https://www.researchgate.net/profile/Pierre-Buesser-2
-
-"Cooper":
-  - firstname: ["Guy", "Guy Alexander", "Guy A.", "G. A."]
-    url: https://www.guyacooper.com/
-
-"Débarre":
-  - firstname: ["Florence", "Flo", "F."]
-    url: https://www.normalesup.org/~fdebarre/
-
-"Deforet":
-  - firstname: ["Maxime", "Max", "M."]
-    url: http://maxdeforet.com/
-
-"Dorigo":
-  - firstname: ["Marco", "M."]
-    url: http://iridia.ulb.ac.be/~mdorigo/HomePageDorigo/
-
-"{dos Santos}":
-  - firstname: ["Miguel", "M."]
-    url: https://migueldossantos.wordpress.com/
-
-"Estrela":
-  - firstname: ["Sylvie", "S."]
-    url: https://sylvieestrela.weebly.com
-
-"González-Forero":
-  - firstname: ["Mauricio", "M."]
-    url: https://www.mgforero.info/
-
-"Harcombe":
-  - firstname: ["William", "William R.", "W. R."]
-    url: http://www.wrharcombe.org/
-
-"Hochberg":
-  - firstname: ["Michael", "Michael E.", "M. E."]
-    url: https://eec.edu.umontpellier.fr/people/mike-hochberg/
-
-"Lehmann":
-  - firstname: ["Laurent", "L."]
-    url: https://www.unil.ch/dee/en/home/menuinst/people/group-leaders/prof-laurent-lehmann.html
-
-"Libby":
-  - firstname: ["Eric", "E."]
+"Becker":
+  - firstname: ["Vaughn", "Vaughn D."]
     url: https://ericlibby.github.io
 
-"Liu":
-  - firstname: ["Ming", "M."]
-    url: https://www.zoo.ox.ac.uk/people/ming-liu
+"Beersma":
+  - firstname: ["Bianca"]
+    url: https://research.vu.nl/en/persons/bianca-beersma
 
-"{Montes de Oca}":
-  - firstname: ["Marco Antonio", "M. A."]
-    url: http://montes-de-oca.com/
+"Columbus":
+  - firstname: ["Simon"]
+    url: http://simoncolumbus.com/
 
-"Nöldeke":
-  - firstname: ["Georg", "G."]
-    url: https://sites.google.com/site/georgnoldeke/
+"De Vries":
+  - firstname: ["Reinout", "Reinout E."]
+    url: https://www.vupsy.nl/staff-members/reinout-e-de-vries/
+
+"Dores Cruz":
+  - firstname: ["Terence", "Terence D."]
+    url: https://terencedorescruz.com/
+
+"Faure":
+  - firstname: ["Ruddy"]
+    url: https://www.linkedin.com/in/ruddy-faure-3b6943127/?originalSubdomain=nl
+
+"Koutsoumpis":
+  - firstname: ["Antonis"]
+    url: https://www.vupsy.nl/staff-members/antonis-koutsoumpis/
+
+"Leib":
+  - firstname: ["Margarita"]
+    url: https://www.uva.nl/en/profile/l/e/m.leib/m.leib.html
+
+"Mol":
+  - firstname: ["Jantsje", "Jantsje M."]
+    url: https://www.jantsje.nl/
+
+"Peperkoorn":
+  - firstname: ["Leonard", "Leonard S."]
+    url: https://www.vupsy.nl/staff-members/leonard-peperkoorn/
+
+"Righetti":
+  - firstname: ["Francesca"]
+    url: http://www.francescarighetti.com/
+
+"Shalvi":
+  - firstname: ["Shaul"]
+    url: https://www.uva.nl/en/profile/s/h/s.shalvi/s.shalvi.html
+
+"Soraperra":
+  - firstname: ["Ivan"]
+    url: https://sites.google.com/site/ivansoraperra/
+
+"Thielmann":
+  - firstname: ["Isabel"]
+    url: https://www.cognition.uni-landau.de/people.php?c=thielmann
+
+"Tybur":
+  - firstname: ["Joshua", "Joshua M."]
+    url: http://www.joshtybur.com/
+
+"Van Lange":
+  - firstname: ["Paul", "Paul A. M."]
+    url: http://www.paulvanlange.com/
+
+"Vu":
+  - firstname: ["Linh"]
+    url: https://www.linkedin.com/in/linh-vu-57276041/?originalSubdomain=nl
+
+"Wu":
+  - firstname: ["Junhui"]
+    url: https://scholar.google.nl/citations?user=jhovqO4AAAAJ&hl=en
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 "Peña":
   - firstname: ["Juan Camilo", "J. C."]
