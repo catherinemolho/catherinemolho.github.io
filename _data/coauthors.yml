@@ -30,9 +30,21 @@
   - firstname: ["Ruddy"]
     url: https://www.linkedin.com/in/ruddy-faure-3b6943127/?originalSubdomain=nl
 
+"Gerpott":
+  - firstname: ["Fabiola", "Fabiola H."]
+    url: https://www.whu.edu/en/faculty/management-group/leadership/fabiola-gerpott/
+
+"Karinen":
+  - firstname: ["Annika", "Annika K."]
+    url: https://www.vupsy.nl/staff-members/annika-karinen/
+
 "Koutsoumpis":
   - firstname: ["Antonis"]
     url: https://www.vupsy.nl/staff-members/antonis-koutsoumpis/
+
+"Kupfer":
+  - firstname: ["Tom", "Tom R.","Thomas"]
+    url: https://www.ntu.ac.uk/staff-profiles/social-sciences/thomas-kupfer
 
 "Leib":
   - firstname: ["Margarita"]
@@ -78,92 +90,6 @@
   - firstname: ["Junhui"]
     url: https://scholar.google.nl/citations?user=jhovqO4AAAAJ&hl=en
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-"Peña":
-  - firstname: ["Juan Camilo", "J. C."]
-    url: https://co.linkedin.com/in/juan-camilo-pe%C3%B1a-su%C3%A1rez-electronic-engineer-0a5b7bb4/de?trk=people-guest_people_search-card
-
-"Pestelacci":
-  - firstname: ["Enea", "E."]
-    url: https://ch.linkedin.com/in/enea-pestelacci-0a98164
-
-"Pichugin":
-  - firstname: ["Yuriy", "Y."]
-    url: https://www.evolbio.mpg.de/person/41706
-
-"Pinciroli":
-  - firstname: ["Carlo", "C."]
-    url: https://carlo.pinciroli.net/
-
-"Puebla":
-  - firstname: ["Oscar", "O."]
-    url: http://www.puebla-lab.org/
-
-"Rainey":
-  - firstname: ["Paul", "Paul B.", "P."]
-    url: http://micropop.evolbio.mpg.de/
-
-"Rochat":
-  - firstname: ["Yannick", "Y."]
-    url: https://yro.ch/
-
-"Sanchez":
-  - firstname: ["Eduardo", "E."]
-    url: https://people.epfl.ch/eduardo.sanchez?lang=fr
-
-"Stützle":
-  - firstname: ["Thomas", "T."]
-    url: http://iridia.ulb.ac.be/~stuetzle/
-
-"Tomassini":
-  - firstname: ["Marco", "M."]
-    url: https://scholar.google.ch/citations?user=6vgFGvYAAAAJ&hl=en
-
-"Traulsen":
-  - firstname: ["Arne", "A."]
-    url: http://web.evolbio.mpg.de/~traulsen/#home
-
-"Upegui":
-  - firstname: ["Andrés", "A."]
-    url: https://www.researchgate.net/profile/Andres-Upegui
-
-"Valencia":
-  - firstname: ["Andrés", "A."]
-    url: https://www.researchgate.net/profile/Andres-Valencia-14
-
-"Van Cleve":
-  - firstname: ["Jeremy", "J."]
-    url: http://vancleve.theoretical.bio
-
-"Vanegas":
-  - firstname: ["Mauricio", "M."]
-    url: https://scholar.google.com/citations?user=vjnia1sAAAAJ&hl=en
-
-"Volken":
-  - firstname: ["Henri", "H."]
-    url: https://genealogy.math.ndsu.nodak.edu/id.php?id=105851
-
-"West":
-  - firstname: ["Stuart Andrew"]
-    url: https://www.zoo.ox.ac.uk/people/professor-stuart-west#/
-
-"Wu":
-  - firstname: ["Bin", "B."]
-    url: https://www.researchgate.net/profile/Bin-Wu-2
+"Zwicker":
+  - firstname: ["Maria"]
+    url: https://www.uva.nl/en/profile/z/w/m.zwicker/m.zwicker.html
