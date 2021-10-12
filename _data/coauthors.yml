@@ -1,6 +1,14 @@
+"Andersson":
+  - firstname: ["Per", "Per A."]
+    url: https://liu.se/en/employee/peran02
+
 "Arriaga":
   - firstname: ["Ximena"]
     url: https://www.purdue.edu/hhs/psy/directory/faculty/Arriaga_Ximena.html
+
+"Aveyard":
+  - firstname: ["Mark"]
+    url: https://www.aus.edu/faculty/mark-aveyard
 
 "Balliet":
   - firstname: ["Daniel"]
@@ -14,6 +22,10 @@
   - firstname: ["Bianca"]
     url: https://research.vu.nl/en/persons/bianca-beersma
 
+"Brauer":
+  - firstname: ["Markus"]
+    url: https://psych.wisc.edu/staff/brauer-markus/
+
 "Columbus":
   - firstname: ["Simon"]
     url: http://simoncolumbus.com/
@@ -26,6 +38,10 @@
   - firstname: ["Terence", "Terence D."]
     url: https://terencedorescruz.com/
 
+"Eriksson":
+  - firstname: ["Kimmo"]
+    url: https://www.iffs.se/en/research/researchers/kimmo-eriksson-1/
+
 "Faure":
   - firstname: ["Ruddy"]
     url: https://www.linkedin.com/in/ruddy-faure-3b6943127/?originalSubdomain=nl
@@ -34,13 +50,37 @@
   - firstname: ["Fabiola", "Fabiola H."]
     url: https://www.whu.edu/en/faculty/management-group/leadership/fabiola-gerpott/
 
+"Gritskov":
+  - firstname: ["Vladimir"]
+    url: https://www.researchgate.net/profile/Vladimir-Gritskov
+
+"Güler":
+  - firstname: ["Ezgi"]
+    url: https://me.eui.eu/ezgi-guler/
+
+"Hofmann":
+  - firstname: ["Wilhelm"]
+    url: https://www.soc.psy.ruhr-uni-bochum.de/team/whofmann.html.en
+
+"Inbar":
+  - firstname: ["Yoel"]
+    url: http://yoelinbar.net/
+
 "Karinen":
   - firstname: ["Annika", "Annika K."]
     url: https://www.vupsy.nl/staff-members/annika-karinen/
 
+"Kiyonari":
+  - firstname: ["Toko"]
+    url: https://sites.google.com/site/tokokiyonarispage/
+
 "Koutsoumpis":
   - firstname: ["Antonis"]
     url: https://www.vupsy.nl/staff-members/antonis-koutsoumpis/
+
+"Kuhlman":
+  - firstname: ["David", "David M."]
+    url: https://www.researchgate.net/profile/David-Kuhlman
 
 "Kupfer":
   - firstname: ["Tom", "Tom R.","Thomas"]
@@ -50,6 +90,14 @@
   - firstname: ["Margarita"]
     url: https://www.uva.nl/en/profile/l/e/m.leib/m.leib.html
 
+"Maitner":
+  - firstname: ["Angela", "Angela T."]
+    url: https://www.aus.edu/faculty/angela-maitner
+
+"Manesi":
+  - firstname: ["Zoi"]
+    url: https://www.linkedin.com/in/zmanesi/
+
 "Mol":
   - firstname: ["Jantsje", "Jantsje M."]
     url: https://www.jantsje.nl/
@@ -58,9 +106,17 @@
   - firstname: ["Leonard", "Leonard S."]
     url: https://www.vupsy.nl/staff-members/leonard-peperkoorn/
 
+"Pollet":
+  - firstname: ["Thomas", "Thomas V."]
+    url: https://tvpollet.github.io/
+
 "Righetti":
   - firstname: ["Francesca"]
     url: http://www.francescarighetti.com/
+
+"Roberts":
+  - firstname: ["Sam", "Sam G.B."]
+    url: https://www.researchgate.net/profile/Sam-Roberts-4/research
 
 "Shalvi":
   - firstname: ["Shaul"]
@@ -69,6 +125,18 @@
 "Soraperra":
   - firstname: ["Ivan"]
     url: https://sites.google.com/site/ivansoraperra/
+
+"Stivers":
+  - firstname: ["Adam", "Adam W."]
+    url: https://www.gonzaga.edu/college-of-arts-sciences/faculty-listing/detail/stivers
+
+"Strimling":
+  - firstname: ["Pontus"]
+    url: https://pontusstrimling.com/
+
+"Tian":
+  - firstname: ["Qirui"]
+    url: https://www.researchgate.net/profile/Qirui-Tian
 
 "Thielmann":
   - firstname: ["Isabel"]
@@ -82,6 +150,10 @@
   - firstname: ["Paul", "Paul A. M."]
     url: http://www.paulvanlange.com/
 
+"Vartanova":
+  - firstname: ["Irina"]
+    url: https://www.iffs.se/en/research/researchers/irina-vartanova/
+
 "Vu":
   - firstname: ["Linh"]
     url: https://www.linkedin.com/in/linh-vu-57276041/?originalSubdomain=nl
@@ -89,6 +161,10 @@
 "Wu":
   - firstname: ["Junhui"]
     url: https://scholar.google.nl/citations?user=jhovqO4AAAAJ&hl=en
+
+"Yamagishi":
+  - firstname: ["Toshio"]
+    url: http://www.human-sociality.net/toshio-yamagishi/english/
 
 "Zwicker":
   - firstname: ["Maria"]
