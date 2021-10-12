@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 permalink: /projects/
 title: projects
@@ -22,7 +22,7 @@ nav: true
       {% include projects.html %}
     {% endfor %}
   </div>
-{% endif %}
+{% endif %} -->
 
 
 <!-- ### 2020/2021 (spring)
