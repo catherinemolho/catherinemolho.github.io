@@ -26,9 +26,21 @@
   - firstname: ["Markus"]
     url: https://psych.wisc.edu/staff/brauer-markus/
 
+"Claypool":
+  - firstname: ["Heather", "Heather M."]
+    url: https://miamioh.edu/cas/academics/departments/psychology/about/faculty-staff/claypool-heather/index.html
+
 "Columbus":
   - firstname: ["Simon"]
     url: http://simoncolumbus.com/
+
+"Crisp":
+  - firstname: ["Richard", "Richard J."]
+    url: https://www.dur.ac.uk/directory/profile/?id=16207
+
+"DeCoster":
+  - firstname: ["Jamie"]
+    url: https://education.virginia.edu/jamie-decoster
 
 "De Vries":
   - firstname: ["Reinout", "Reinout E."]
@@ -42,6 +54,10 @@
   - firstname: ["Kimmo"]
     url: https://www.iffs.se/en/research/researchers/kimmo-eriksson-1/
 
+"Fan":
+  - firstname: ["Lei"]
+    url: https://leifanpsych.xyz/
+
 "Faure":
   - firstname: ["Ruddy"]
     url: https://www.linkedin.com/in/ruddy-faure-3b6943127/?originalSubdomain=nl
@@ -49,6 +65,10 @@
 "Gerpott":
   - firstname: ["Fabiola", "Fabiola H."]
     url: https://www.whu.edu/en/faculty/management-group/leadership/fabiola-gerpott/
+
+"Giner-Sorolla":
+  - firstname: ["Roger"]
+    url: https://www.kent.ac.uk/psychology/people/227/giner-sorolla-roger
 
 "Gritskov":
   - firstname: ["Vladimir"]
@@ -94,6 +114,10 @@
   - firstname: ["Angela", "Angela T."]
     url: https://www.aus.edu/faculty/angela-maitner
 
+"Mackie":
+  - firstname: ["Diane", "Diane M."]
+    url: https://psych.ucsb.edu/people/faculty/diane-mackie
+
 "Manesi":
   - firstname: ["Zoi"]
     url: https://www.linkedin.com/in/zmanesi/
@@ -122,6 +146,10 @@
   - firstname: ["Shaul"]
     url: https://www.uva.nl/en/profile/s/h/s.shalvi/s.shalvi.html
 
+"Sherbaji":
+  - firstname: ["Sara"]
+    url: https://www.researchgate.net/profile/Sara-Sherbaji
+
 "Soraperra":
   - firstname: ["Ivan"]
     url: https://sites.google.com/site/ivansoraperra/
@@ -141,6 +169,10 @@
 "Thielmann":
   - firstname: ["Isabel"]
     url: https://www.cognition.uni-landau.de/people.php?c=thielmann
+
+"Twardawski":
+  - firstname: ["Mathias"]
+    url: https://www.psy.lmu.de/soz/personen/wissenschaftliche-mitarbeiter/twardawski/index.html
 
 "Tybur":
   - firstname: ["Joshua", "Joshua M."]
