@@ -6,6 +6,12 @@ description: courses and supervision
 nav: true
 ---
 
+### Courses
+
+- Behavioural Business Ethics, co-taught with Shaul Shalvi, (https://studiegids.uva.nl/xmlpages/page/2021-2022/zoek-vak/vak/92750){:target="\_blank"}, Master's Business Economics, University of Amsterdam, 2022.
+
+- Neuroeconomics (tutorials), (https://studiegids.uva.nl/xmlpages/page/2021-2022/zoek-vak/vak/92888){:target="\_blank"}, Master's Business Economics & Master's Brain and Cognitive Sciences, University of Amsterdam, 2022.
+
 ### Guest Lectures
 
 - Invited lecture in course 'Evolutionary Psychology' (topic: 'Evolutionary perspectives on punishment'), [Kurt Lewin Institute](https://kurtlewininstituut.nl/){:target="\_blank"}, May 2021.
