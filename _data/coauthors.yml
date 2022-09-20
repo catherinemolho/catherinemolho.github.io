@@ -6,10 +6,6 @@
   - firstname: ["Ximena"]
     url: https://www.purdue.edu/hhs/psy/directory/faculty/Arriaga_Ximena.html
 
-"Aveyard":
-  - firstname: ["Mark"]
-    url: https://www.aus.edu/faculty/mark-aveyard
-
 "Balliet":
   - firstname: ["Daniel"]
     url: https://www.vupsy.nl/staff-members/daniel-balliet/
@@ -22,25 +18,9 @@
   - firstname: ["Bianca"]
     url: https://research.vu.nl/en/persons/bianca-beersma
 
-"Brauer":
-  - firstname: ["Markus"]
-    url: https://psych.wisc.edu/staff/brauer-markus/
-
-"Claypool":
-  - firstname: ["Heather", "Heather M."]
-    url: https://miamioh.edu/cas/academics/departments/psychology/about/faculty-staff/claypool-heather/index.html
-
 "Columbus":
   - firstname: ["Simon"]
     url: http://simoncolumbus.com/
-
-"Crisp":
-  - firstname: ["Richard", "Richard J."]
-    url: https://www.dur.ac.uk/directory/profile/?id=16207
-
-"DeCoster":
-  - firstname: ["Jamie"]
-    url: https://education.virginia.edu/jamie-decoster
 
 "De Vries":
   - firstname: ["Reinout", "Reinout E."]
@@ -69,10 +49,6 @@
 "Giner-Sorolla":
   - firstname: ["Roger"]
     url: https://www.kent.ac.uk/psychology/people/227/giner-sorolla-roger
-
-"Gritskov":
-  - firstname: ["Vladimir"]
-    url: https://www.researchgate.net/profile/Vladimir-Gritskov
 
 "Güler":
   - firstname: ["Ezgi"]
@@ -114,10 +90,6 @@
   - firstname: ["Angela", "Angela T."]
     url: https://www.aus.edu/faculty/angela-maitner
 
-"Mackie":
-  - firstname: ["Diane", "Diane M."]
-    url: https://psych.ucsb.edu/people/faculty/diane-mackie
-
 "Manesi":
   - firstname: ["Zoi"]
     url: https://www.linkedin.com/in/zmanesi/
@@ -146,10 +118,6 @@
   - firstname: ["Shaul"]
     url: https://www.uva.nl/en/profile/s/h/s.shalvi/s.shalvi.html
 
-"Sherbaji":
-  - firstname: ["Sara"]
-    url: https://www.researchgate.net/profile/Sara-Sherbaji
-
 "Soraperra":
   - firstname: ["Ivan"]
     url: https://sites.google.com/site/ivansoraperra/
@@ -161,10 +129,6 @@
 "Strimling":
   - firstname: ["Pontus"]
     url: https://pontusstrimling.com/
-
-"Tian":
-  - firstname: ["Qirui"]
-    url: https://www.researchgate.net/profile/Qirui-Tian
 
 "Thielmann":
   - firstname: ["Isabel"]
@@ -181,10 +145,6 @@
 "Van Lange":
   - firstname: ["Paul", "Paul A. M."]
     url: http://www.paulvanlange.com/
-
-"Vartanova":
-  - firstname: ["Irina"]
-    url: https://www.iffs.se/en/research/researchers/irina-vartanova/
 
 "Vu":
   - firstname: ["Linh"]
