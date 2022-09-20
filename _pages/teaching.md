@@ -24,6 +24,9 @@ nav: true
 
 ### Theses supervision
 
+- Master's theses supervision, Neuroeconomics, [University of Amsterdam](https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-economics-and-business/faculty-of-economics-and-business.html){:target="\_blank"}, 2021-2022.
+4 theses supervised to completion.
+
 - Master's theses supervision, Social and Organizational Psychology, [VU Amsterdam](https://www.vupsy.nl/){:target="\_blank"}, 2015-2018.
 9 theses supervised to completion.
 
