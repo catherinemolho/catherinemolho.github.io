@@ -8,7 +8,7 @@ profile:
   align: right
   image: CM.jpg
   address: >
-    # <p>office T.423</p>
+    <p>office MF B-554</p>
     <p>VU Amsterdam</p>
     <p>Van der Boechorststraat 7-9</p>
     <p>1081 BT  Amsterdam</p>

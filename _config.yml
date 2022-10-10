@@ -6,14 +6,14 @@ title: Catherine Molho # the website title (if blank, full name will be used ins
 first_name: Catherine
 middle_name:
 last_name: Molho
-email: c.molho@uva.nl
+email: c.molho@vu.nl
 description:  > # the ">" symbol means to ignore newlines until "footer_text:"
   # A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
-icon: 🎲 # the emoji used as the favicon
+icon: 🌿 # the emoji used as the favicon
 url:  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
@@ -59,7 +59,7 @@ quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: https://www.researchgate.net/profile/Catherine-Molho # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: https://www.behavioralethics.org/author/catherine-molho/ # work page URL
+work_url: https://research.vu.nl/en/persons/catherine-molho-2 # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
