@@ -14,6 +14,8 @@ nav: true
 
 ### Guest lectures
 
+- Invited lecture in course 'The science behind our choices: decision-making across species and societies' (topic: 'Evolutionary and cognitive foundations of punishment'), [School of Psychology, Newcastle University](https://www.ncl.ac.uk/psychology/){:target="\_blank"}, October 2022.
+
 - Invited lecture in course 'Evolutionary Psychology' (topic: 'Evolutionary perspectives on punishment'), [Kurt Lewin Institute](https://kurtlewininstituut.nl/){:target="\_blank"}, May 2021.
 
 - Invited lecture in course 'Bridging Social Psychology' (topic: 'Informal punishment in daily life'), [VU Amsterdam](https://www.vupsy.nl/){:target="\_blank"}, September 2020.
