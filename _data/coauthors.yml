@@ -98,6 +98,10 @@
   - firstname: ["Jantsje", "Jantsje M."]
     url: https://www.jantsje.nl/
 
+"Mosso":
+  - firstname: ["Cristina", "Cristina O."]
+    url: https://www.dippsicologia.unito.it/do/docenti.pl/Alias?cristina.mosso#tab-profilo
+
 "Peperkoorn":
   - firstname: ["Leonard", "Leonard S."]
     url: https://www.vupsy.nl/staff-members/leonard-peperkoorn/
@@ -110,6 +114,10 @@
   - firstname: ["Francesca"]
     url: http://www.francescarighetti.com/
 
+"Romano":
+  - firstname: ["Angelo"]
+    url: https://www.universiteitleiden.nl/en/staffmembers/angelo-romano
+
 "Roberts":
   - firstname: ["Sam", "Sam G.B."]
     url: https://www.researchgate.net/profile/Sam-Roberts-4/research
@@ -117,6 +125,10 @@
 "Shalvi":
   - firstname: ["Shaul"]
     url: https://www.uva.nl/en/profile/s/h/s.shalvi/s.shalvi.html
+
+"Spadaro":
+  - firstname: ["Giuliana"]
+    url: https://research.vu.nl/en/persons/giuliana-spadaro
 
 "Soraperra":
   - firstname: ["Ivan"]
@@ -145,6 +157,10 @@
 "Van Lange":
   - firstname: ["Paul", "Paul A. M."]
     url: http://www.paulvanlange.com/
+
+"Van Prooijen":
+  - firstname: ["Jan-Willem"]
+    url: http://www.janwillemvanprooijen.com/
 
 "Vu":
   - firstname: ["Linh"]
