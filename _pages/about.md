@@ -9,7 +9,7 @@ profile:
   image: CM.jpg
   address: >
     <p>c.molho@vu.nl</p>
-    <p>office MF C-566</p>
+    <p>office MF C566</p>
     <p>Van der Boechorststraat 7</p>
     <p>1081 BT  Amsterdam</p>
     <p>VU Amsterdam</p>
