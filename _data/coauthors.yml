@@ -26,6 +26,10 @@
   - firstname: ["Reinout", "Reinout E."]
     url: https://www.vupsy.nl/staff-members/reinout-e-de-vries/
 
+"De Petrillo":
+  - firstname: ["Francesca"]
+    url: https://www.ncl.ac.uk/psychology/people/profile/francescade-petrillo.html
+
 "Dores Cruz":
   - firstname: ["Terence", "Terence D."]
     url: https://terencedorescruz.com/
@@ -41,6 +45,10 @@
 "Faure":
   - firstname: ["Ruddy"]
     url: https://www.linkedin.com/in/ruddy-faure-3b6943127/?originalSubdomain=nl
+
+"Garfield":
+  - firstname: ["Zachary", "Zachary H."]
+    url: https://zhgarfield.github.io/
 
 "Gerpott":
   - firstname: ["Fabiola", "Fabiola H."]
