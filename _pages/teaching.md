@@ -26,9 +26,9 @@ nav: true
 
 ### Supervision
 
-- Research Master's [theses](https://studiegids.vu.nl/en/Master/2022-2023/rm-social-psychology/P_MRMTHESSP#/){:target="\_blank"} supervision, Social Psychology, [VU Amsterdam](https://vu.nl/en/about-vu/faculties/faculty-of-behavioural-and-movement-sciences/departments/experimental-and-applied-psychology){:target="\_blank"}, 2022-2023.
+- Research Master's [theses](https://studiegids.vu.nl/en/Master/2022-2023/rm-social-psychology/P_MRMTHESSP#/){:target="\_blank"} supervision, Social Psychology, [VU Amsterdam](https://vu.nl/en/about-vu/faculties/faculty-of-behavioural-and-movement-sciences/departments/experimental-and-applied-psychology){:target="\_blank"}, 2022-2023. 4 theses supervised to completion.
 
-- Research Master's [first-year group project](https://studiegids.vu.nl/en/Master/2022-2023/rm-social-psychology/P_MRESPRJ_1#/){:target="\_blank"} supervision, Social Psychology, [VU Amsterdam](https://vu.nl/en/about-vu/faculties/faculty-of-behavioural-and-movement-sciences/departments/experimental-and-applied-psychology){:target="\_blank"}, 2022-2023.
+- Research Master's [first-year group project](https://studiegids.vu.nl/en/Master/2022-2023/rm-social-psychology/P_MRESPRJ_1#/){:target="\_blank"} supervision, Social Psychology, [VU Amsterdam](https://vu.nl/en/about-vu/faculties/faculty-of-behavioural-and-movement-sciences/departments/experimental-and-applied-psychology){:target="\_blank"}, 2022-2023. 2 group projects supervised to completion.
 
 - Master's theses supervision, Neuroeconomics, [University of Amsterdam](https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-economics-and-business/faculty-of-economics-and-business.html){:target="\_blank"}, 2021-2022.
 4 theses supervised to completion.
