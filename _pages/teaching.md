@@ -18,11 +18,13 @@ nav: true
 
 ### Guest lectures
 
+- Invited lecture in course 'Advanced Research Methods' (topic: 'Experience sampling methods: Introduction and applications'), [VU Amsterdam](https://studiegids.vu.nl/en/Master/2023-2024/rm-social-psychology/P_MADVRES#/){:target="\_blank"}, October 2023.
+
 - Invited lecture in course 'The science behind our choices: decision-making across species and societies' (topic: 'Evolutionary and cognitive foundations of punishment'), [Newcastle University](https://www.ncl.ac.uk/psychology/){:target="\_blank"}, October 2022.
 
 - Invited lecture in course 'Evolutionary Psychology' (topic: 'Evolutionary perspectives on punishment'), [Kurt Lewin Institute](https://kurtlewininstituut.nl/){:target="\_blank"}, May 2021.
 
-- Invited lecture in course 'Bridging Social Psychology' (topic: 'Informal punishment in daily life'), [VU Amsterdam](https://www.vupsy.nl/){:target="\_blank"}, September 2020.
+- Invited lecture in course 'Bridging Social Psychology' (topic: 'Informal punishment in daily life'), [VU Amsterdam](https://studiegids.vu.nl/en/Master/2023-2024/rm-social-psychology/P_MBRIDGI#/){:target="\_blank"}, September 2020.
 
 ### Supervision
 
