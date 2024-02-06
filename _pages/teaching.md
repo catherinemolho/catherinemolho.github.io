@@ -8,6 +8,8 @@ nav: true
 
 ### Courses
 
+- [Experience Sampling Methods to Study Social Psychology in the Field](https://kli.fss.uu.nl/courses/166){:target="\_blank"}, [Kurt Lewin Institute](https://kurtlewininstituut.nl/){:target="\_blank"}, 2024.
+
 - [Introduction to R for Behavioral Sciences](https://studiegids.vu.nl/en/Master/2023-2024/rm-social-psychology/P_MINRBS#/){:target="\_blank"}, Research Master's in Social Psychology, [VU Amsterdam](https://vu.nl/en/education/master/social-psychology-research){:target="\_blank"}, 2023.
 
 - [Expert Workshop I: Interdependence](https://studiegids.vu.nl/en/Master/2022-2023/rm-social-psychology/P_MEXPWRK_1#/){:target="\_blank"}, Research Master's in Social Psychology, [VU Amsterdam](https://vu.nl/en/education/master/social-psychology-research){:target="\_blank"}, 2023.
