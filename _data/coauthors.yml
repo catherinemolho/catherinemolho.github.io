@@ -22,6 +22,10 @@
   - firstname: ["Simon"]
     url: http://simoncolumbus.com/
 
+"Derex":
+  - firstname: ["Maxime"]
+    url: https://maximederex.weebly.com/
+
 "De Vries":
   - firstname: ["Reinout", "Reinout E."]
     url: https://www.vupsy.nl/staff-members/reinout-e-de-vries/
@@ -114,6 +118,10 @@
   - firstname: ["Cristina", "Cristina O."]
     url: https://www.dippsicologia.unito.it/do/docenti.pl/Alias?cristina.mosso#tab-profilo
 
+"Peña":
+  - firstname: ["Jorge"]
+    url: https://jorgeapenas.github.io/
+
 "Peperkoorn":
   - firstname: ["Leonard", "Leonard S."]
     url: https://www.vupsy.nl/staff-members/leonard-peperkoorn/
@@ -141,6 +149,10 @@
 "Shalvi":
   - firstname: ["Shaul"]
     url: https://www.uva.nl/en/profile/s/h/s.shalvi/s.shalvi.html
+
+"Singh":
+  - firstname: ["Manvir"]
+    url: https://www.manvir.org/
 
 "Spadaro":
   - firstname: ["Giuliana"]
