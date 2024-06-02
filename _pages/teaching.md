@@ -8,7 +8,7 @@ nav: true
 
 ### Courses
 
-- Punishment and Norm Enforcement, module in [Toulouse Summer School in Quantitative Social Sciences](https://www.tse-fr.eu/toulouse-summer-school-quantitative-social-sciences){:target="\_blank"}, [Toulouse School of Economics](https://www.tse-fr.eu/){:target="\_blank"}, 2024.
+- [Toulouse Summer School in Quantitative Social Sciences](https://www.tse-fr.eu/toulouse-summer-school-quantitative-social-sciences){:target="\_blank"}, one-day course on 'Punishment and Norm Enforcement', [Toulouse School of Economics](https://www.tse-fr.eu/){:target="\_blank"}, 2024.
 
 - [Experience Sampling Methods to Study Social Psychology in the Field](https://kli.fss.uu.nl/courses/166){:target="\_blank"}, [Kurt Lewin Institute](https://kurtlewininstituut.nl/){:target="\_blank"}, 2024.
 
