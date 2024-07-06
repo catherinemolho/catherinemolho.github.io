@@ -48,7 +48,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-bluesky_url: https://bsky.app/profile/cmolho.bsky.social
+bluesky_url: cmolho.bsky.social
 github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
 # twitter_username: catherinemolho # your Twitter handle
