@@ -48,7 +48,6 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-bluesky_url: cmolho.bsky.social
 github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
 # twitter_username: catherinemolho # your Twitter handle
@@ -61,9 +60,10 @@ medium_username: # your Medium username
 quora_username: # your Quora username
 osf_id: xdzj9
 publons_id: # your ID on Publons
-research_gate_profile: https://www.researchgate.net/profile/Catherine-Molho # your profile on ResearchGate
+research_gate_profile: Catherine-Molho # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: https://research.vu.nl/en/persons/catherine-molho-2 # work page URL
+bluesky_url: cmolho.bsky.social
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
