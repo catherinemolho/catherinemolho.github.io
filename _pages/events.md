@@ -8,7 +8,7 @@ nav: true
 
 ### Conferences
 
-- [Cross-Cultural research in social dilemmas and beyond](https://socialdilemma.com/preconference-on-cross-cultural-research-in-social-dilemmas-and-beyond/){:target="\_blank"}, pre-conference co-organized with Vanessa Clemens & Angela Dorrough, [International Conference on Social Dilemmas (ICSD)](https://socialdilemma.com/){:target="\_blank"}, 2024.
+- [Cross-cultural research in social dilemmas and beyond](https://socialdilemma.com/preconference-on-cross-cultural-research-in-social-dilemmas-and-beyond/){:target="\_blank"}, pre-conference co-organized with Vanessa Clemens & Angela Dorrough, [International Conference on Social Dilemmas (ICSD)](https://socialdilemma.com/){:target="\_blank"}, 2024.
 
 ### Workshops
 
