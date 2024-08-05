@@ -8,7 +8,7 @@ profile:
   align: right
   image: CM.jpg
   address: >
-    <p>catherine.molho@tse-fr.eu</p>
+    <p>catherine.molho@iast.fr</p>
     <p>1, Esplanade de l'Université</p>
     <p>31080 Toulouse</p>
     <p>Toulouse School of Economics</p>    
