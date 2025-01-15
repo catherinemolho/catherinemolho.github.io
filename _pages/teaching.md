@@ -12,7 +12,7 @@ nav: true
 
 - [Toulouse Summer School in Quantitative Social Sciences](https://www.tse-fr.eu/toulouse-summer-school-quantitative-social-sciences){:target="\_blank"}, 'The psychology of cooperation and norm enforcement', [Toulouse School of Economics](https://www.tse-fr.eu/){:target="\_blank"}, 2024.
 
-- [Experience Sampling Methods to Study Social Psychology in the Field](https://kli.fss.uu.nl/courses/166){:target="\_blank"}, [Kurt Lewin Institute](https://kurtlewininstituut.nl/){:target="\_blank"}, 2024.
+- [Experience Sampling Methods to Study Social Psychology in the Field](https://kli.fss.uu.nl/courses/166){:target="\_blank"}, [Kurt Lewin Institute](https://kurtlewininstituut.nl/){:target="\_blank"}, 2024; 2025.
 
 - [Introduction to R for Behavioral Sciences](https://studiegids.vu.nl/en/Master/2023-2024/rm-social-psychology/P_MINRBS#/){:target="\_blank"}, Research Master's in Social Psychology, [VU Amsterdam](https://vu.nl/en/education/master/social-psychology-research){:target="\_blank"}, 2023.
 
