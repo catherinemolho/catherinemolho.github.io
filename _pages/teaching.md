@@ -14,11 +14,11 @@ nav: true
 
 - [Experience Sampling Methods to Study Social Psychology in the Field](https://kli.fss.uu.nl/courses/166){:target="\_blank"}, [Kurt Lewin Institute](https://kurtlewininstituut.nl/){:target="\_blank"}, 2024; 2025.
 
+- [Motivation and Emotion](https://studiegids.vu.nl/en/courses/2023-2024/P_MMOTEMO#/){:target="\_blank"}, Research Master's in Social Psychology, [VU Amsterdam](https://vu.nl/en/education/master/social-psychology-research){:target="\_blank"}, 2023; 2024.
+
 - [Introduction to R for Behavioral Sciences](https://studiegids.vu.nl/en/Master/2023-2024/rm-social-psychology/P_MINRBS#/){:target="\_blank"}, Research Master's in Social Psychology, [VU Amsterdam](https://vu.nl/en/education/master/social-psychology-research){:target="\_blank"}, 2023.
 
 - [Expert Workshop I: Interdependence](https://studiegids.vu.nl/en/Master/2022-2023/rm-social-psychology/P_MEXPWRK_1#/){:target="\_blank"}, Research Master's in Social Psychology, [VU Amsterdam](https://vu.nl/en/education/master/social-psychology-research){:target="\_blank"}, 2023.
-
-- [Motivation and Emotion](https://studiegids.vu.nl/en/courses/2023-2024/P_MMOTEMO#/){:target="\_blank"}, Research Master's in Social Psychology, [VU Amsterdam](https://vu.nl/en/education/master/social-psychology-research){:target="\_blank"}, 2023; 2024.
 
 - [Behavioural Business Ethics](https://studiegids.uva.nl/xmlpages/page/2021-2022/zoek-vak/vak/92750){:target="\_blank"} (co-taught with Shaul Shalvi), Master's Business Economics,  [University of Amsterdam](https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-economics-and-business/faculty-of-economics-and-business.html){:target="\_blank"}, 2022.
 
