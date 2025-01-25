@@ -8,7 +8,7 @@ nav: true
 
 ### Courses
 
-- [Behavioral and Experimental Economics](https://www.tse-fr.eu/sites/default/files/TSE/ecole/doc/syllabi/2024-2025/m1_s2_syllabus_behavioralexperimentaleconomics_molho_2024-2025.pdf){:target="\_blank"}, [Toulouse School of Economics](https://www.tse-fr.eu/){:target="\_blank"}, 2025.
+- [Behavioral and Experimental Economics](https://www.tse-fr.eu/sites/default/files/TSE/ecole/doc/syllabi/2024-2025/m1_s2_syllabus_behavioralexperimentaleconomics_molho_2024-2025.pdf){:target="\_blank"}, M1/S2, [Toulouse School of Economics](https://www.tse-fr.eu/){:target="\_blank"}, 2025.
 
 - [Toulouse Summer School in Quantitative Social Sciences](https://www.tse-fr.eu/toulouse-summer-school-quantitative-social-sciences){:target="\_blank"}, 'The psychology of cooperation and norm enforcement', [Toulouse School of Economics](https://www.tse-fr.eu/){:target="\_blank"}, 2024.
 
