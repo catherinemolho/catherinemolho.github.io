@@ -1,3 +1,7 @@
+" Abacioglu":
+  - firstname: ["Ceren", "Ceren Su"]
+    url: https://www.linkedin.com/in/cerenabacioglu
+
 "Andersson":
   - firstname: ["Per", "Per A."]
     url: https://liu.se/en/employee/peran02
@@ -146,6 +150,10 @@
   - firstname: ["Disa", "Disa A."]
     url: https://www.uva.nl/en/profile/s/a/d.a.sauter/d.a.sauter.html
 
+"Schulz":
+  - firstname: ["Jonathan", "Jonathan F."]
+    url: https://sites.google.com/site/jonathanfschulz/
+
 "Shalvi":
   - firstname: ["Shaul"]
     url: https://www.uva.nl/en/profile/s/h/s.shalvi/s.shalvi.html
@@ -153,6 +161,10 @@
 "Singh":
   - firstname: ["Manvir"]
     url: https://www.manvir.org/
+
+"Singhal":
+  - firstname: ["Nivedita"]
+    url: https://www.linkedin.com/in/nivedita-singhal-516700228
 
 "Spadaro":
   - firstname: ["Giuliana"]
@@ -169,6 +181,10 @@
 "Strimling":
   - firstname: ["Pontus"]
     url: https://pontusstrimling.com/
+
+"Tabak":
+  - firstname: ["Berke", "Berke Tan"]
+    url: https://www.linkedin.com/in/berke-tan-tabak-40a645197/
 
 "Thielmann":
   - firstname: ["Isabel"]
