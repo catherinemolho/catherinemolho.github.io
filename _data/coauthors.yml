@@ -78,6 +78,10 @@
   - firstname: ["Wilhelm"]
     url: https://www.soc.psy.ruhr-uni-bochum.de/team/whofmann.html.en
 
+"Imada":
+  - firstname: ["Hirotaka"]
+    url: https://himada2018.github.io/
+
 "Inbar":
   - firstname: ["Yoel"]
     url: http://yoelinbar.net/
@@ -201,6 +205,10 @@
 "Van Lange":
   - firstname: ["Paul", "Paul A. M."]
     url: http://www.paulvanlange.com/
+
+"Van Leeuwen":
+  - firstname: ["Florian"]
+    url: https://www.tilburguniversity.edu/staff/f-vanleeuwen
 
 "Van Prooijen":
   - firstname: ["Jan-Willem"]
