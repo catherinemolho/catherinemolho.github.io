@@ -12,7 +12,7 @@ nav: true
 
 ### Conferences
 
-- [Disgust across borders: Multidisciplinary perspectives on a core emotion](https://www.iast.fr/conferences/2025-disgust-across-borders-multidisciplinary-perspectives-core-emotion){:target="\_blank"}, conference co-organized with Cecile Sarabian & Arnaud Tognetti, [Institute for Advanced Study in Toulouse (IAST)](https://www.iast.fr/){:target="\_blank"}, 2024.
+- [Disgust across borders: Multidisciplinary perspectives on a core emotion](https://www.iast.fr/conferences/2025-disgust-across-borders-multidisciplinary-perspectives-core-emotion){:target="\_blank"}, conference co-organized with Cecile Sarabian & Arnaud Tognetti, [Institute for Advanced Study in Toulouse (IAST)](https://www.iast.fr/){:target="\_blank"}, 2025.
 
 - [Cross-cultural research in social dilemmas and beyond](https://socialdilemma.com/preconference-on-cross-cultural-research-in-social-dilemmas-and-beyond/){:target="\_blank"}, pre-conference co-organized with Vanessa Clemens & Angela Dorrough, [International Conference on Social Dilemmas (ICSD)](https://socialdilemma.com/){:target="\_blank"}, 2024.
 
