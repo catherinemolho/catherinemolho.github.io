@@ -8,9 +8,11 @@ nav: true
 
 ### Upcoming
 
-- [Disgust across borders: Multidisciplinary perspectives on a core emotion](https://www.iast.fr/conferences/2025-disgust-across-borders-multidisciplinary-perspectives-core-emotion){:target="\_blank"}, conference co-organized with Cecile Sarabian & Arnaud Tognetti, [Institute for Advanced Study in Toulouse (IAST)](https://www.iast.fr/){:target="\_blank"}, 2024.
+- [Prosocial and antisocial behavior: Cross-cultural perspectives and methods](https://www.easp.eu/news/itm/call_for_submissions_easp_pre_co-2173.html){:target="\_blank"}, pre-conference co-organized with Shuxian Jin, [General Meeting of the European Association of Social Psychology (EASP)](https://easp2026strasbourg.com/){:target="\_blank"}, 2026.
 
 ### Conferences
+
+- [Disgust across borders: Multidisciplinary perspectives on a core emotion](https://www.iast.fr/conferences/2025-disgust-across-borders-multidisciplinary-perspectives-core-emotion){:target="\_blank"}, conference co-organized with Cecile Sarabian & Arnaud Tognetti, [Institute for Advanced Study in Toulouse (IAST)](https://www.iast.fr/){:target="\_blank"}, 2024.
 
 - [Cross-cultural research in social dilemmas and beyond](https://socialdilemma.com/preconference-on-cross-cultural-research-in-social-dilemmas-and-beyond/){:target="\_blank"}, pre-conference co-organized with Vanessa Clemens & Angela Dorrough, [International Conference on Social Dilemmas (ICSD)](https://socialdilemma.com/){:target="\_blank"}, 2024.
 
