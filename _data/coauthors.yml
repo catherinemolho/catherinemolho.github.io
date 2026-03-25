@@ -170,13 +170,17 @@
   - firstname: ["Nivedita"]
     url: https://www.linkedin.com/in/nivedita-singhal-516700228
 
-"Spadaro":
-  - firstname: ["Giuliana"]
-    url: https://research.vu.nl/en/persons/giuliana-spadaro
+"Song":
+  - firstname: ["Xiyan"]
+    url: https://www.linkedin.com/in/xiyan-song/
 
 "Soraperra":
   - firstname: ["Ivan"]
     url: https://sites.google.com/site/ivansoraperra/
+
+"Spadaro":
+  - firstname: ["Giuliana"]
+    url: https://research.vu.nl/en/persons/giuliana-spadaro
 
 "Stivers":
   - firstname: ["Adam", "Adam W."]
