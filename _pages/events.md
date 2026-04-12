@@ -8,7 +8,7 @@ nav: true
 
 ### Upcoming
 
-- [Prosocial and antisocial behavior: Cross-cultural perspectives and methods](https://www.easp.eu/news/itm/call_for_submissions_easp_pre_co-2173.html){:target="\_blank"}, pre-conference co-organized with Shuxian Jin, [General Meeting of the European Association of Social Psychology (EASP)](https://easp2026strasbourg.com/){:target="\_blank"}, 2026.
+- [Prosocial and antisocial behavior: Cross-cultural perspectives and methods](https://sites.google.com/view/prosocial-and-antisocial/){:target="\_blank"}, pre-conference co-organized with Shuxian Jin, [General Meeting of the European Association of Social Psychology (EASP)](https://easp2026strasbourg.com/){:target="\_blank"}, 2026.
 
 ### Conferences
 
