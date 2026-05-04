@@ -58,6 +58,10 @@
   - firstname: ["Susann"]
     url: https://www.wu.ac.at/cobe/prof-dr-susann-fiedler/
 
+"Fiorio":
+  - firstname: ["Grégory"]
+    url: https://sites.google.com/view/gregoryfiorio/home
+    
 "Garfield":
   - firstname: ["Zachary", "Zachary H."]
     url: https://zhgarfield.github.io/
@@ -85,6 +89,10 @@
 "Inbar":
   - firstname: ["Yoel"]
     url: http://yoelinbar.net/
+
+"Kaneko Ebert":
+  - firstname: ["Ana"]
+    url: https://www.linkedin.com/in/ana-clara-kaneko-ebert-8811a815b/
 
 "Karinen":
   - firstname: ["Annika", "Annika K."]
