@@ -4,6 +4,7 @@ permalink: /projects/
 title: projects
 description: ongoing projects
 nav: true
+published: false
 ---
 
 {% assign sorted_projects = site.projects | sort: "importance" %}

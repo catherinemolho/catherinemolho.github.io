@@ -5,6 +5,7 @@ description: Regulating punishment to enforce cooperation: from individuals to i
 img: /assets/img/Picture1.jpg
 importance: 1
 category: work
+published: false
 ---
 
 ENFORCE is an ANR-funded project which aims to improve our understanding of how punishment is regulated to promote its prosocial uses while restricting its destructive consequences. In three lines of research, we will investigate how diverse human groups regulate punishment through reputational systems, norms, and institutional rules. The project uses a multi-method approach, combining cross-cultural surveys across small-scale and industrialized societies with novel experimental tasks to study the bottom-up emergence of punishment norms and institutions.
