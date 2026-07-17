@@ -6,11 +6,9 @@ description: conferences and workshops
 nav: true
 ---
 
-### Upcoming
+### Conferences
 
 - [Prosocial and antisocial behavior: Cross-cultural perspectives and methods](https://sites.google.com/view/prosocial-and-antisocial/){:target="\_blank"}, pre-conference co-organized with Shuxian Jin, [General Meeting of the European Association of Social Psychology (EASP)](https://easp2026strasbourg.com/){:target="\_blank"}, 2026.
-
-### Conferences
 
 - [Disgust across borders: Multidisciplinary perspectives on a core emotion](https://www.iast.fr/conferences/2025-disgust-across-borders-multidisciplinary-perspectives-core-emotion){:target="\_blank"}, conference co-organized with Cecile Sarabian & Arnaud Tognetti, [Institute for Advanced Study in Toulouse (IAST)](https://www.iast.fr/){:target="\_blank"}, 2025.
 
