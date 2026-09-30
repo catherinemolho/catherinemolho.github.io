@@ -22,6 +22,10 @@
   - firstname: ["Bianca"]
     url: https://research.vu.nl/en/persons/bianca-beersma
 
+"Clemens":
+  - firstname: ["Vanessa", "Vanessa C."]
+    url: https://www.linkedin.com/in/vanessa-clemens-8401001a4/
+
 "Columbus":
   - firstname: ["Simon"]
     url: http://simoncolumbus.com/
@@ -29,6 +33,10 @@
 "Derex":
   - firstname: ["Maxime"]
     url: https://maximederex.weebly.com/
+
+"De Dreu":
+  - firstname: ["Carsten"]
+    url: https://www.rug.nl/staff/c.k.w.de.dreu/?lang=en
 
 "De Vries":
   - firstname: ["Reinout", "Reinout E."]
@@ -41,6 +49,10 @@
 "Dores Cruz":
   - firstname: ["Terence", "Terence D."]
     url: https://terencedorescruz.com/
+
+"Dorrough":
+  - firstname: ["Angela"]
+    url: https://www.fernuni-hagen.de/interkulturelle-psychologie/en/staff/angela.dorrough.shtml
 
 "Eriksson":
   - firstname: ["Kimmo"]
@@ -82,6 +94,10 @@
   - firstname: ["Wilhelm"]
     url: https://www.soc.psy.ruhr-uni-bochum.de/team/whofmann.html.en
 
+"Hoenig":
+  - firstname: ["Laura", "Laura Carlotta"]
+    url: https://www.linkedin.com/in/laurachoenig/
+
 "Imada":
   - firstname: ["Hirotaka"]
     url: https://himada2018.github.io/
@@ -89,6 +105,10 @@
 "Inbar":
   - firstname: ["Yoel"]
     url: http://yoelinbar.net/
+
+"Jin":
+  - firstname: ["Shuxian"]
+    url: https://www.psy.pku.edu.cn/english/people/faculty/professor/shuxianjin/index.htm
 
 "Kaneko Ebert":
   - firstname: ["Ana"]
@@ -133,6 +153,10 @@
 "Mosso":
   - firstname: ["Cristina", "Cristina O."]
     url: https://www.dippsicologia.unito.it/do/docenti.pl/Alias?cristina.mosso#tab-profilo
+
+"Orifici":
+  - firstname: ["Marina"]
+    url: https://www.fernuni-hagen.de/interkulturelle-psychologie/en/staff/marina.orifici.shtml
 
 "Peña":
   - firstname: ["Jorge"]
@@ -213,6 +237,10 @@
 "Tybur":
   - firstname: ["Joshua", "Joshua M."]
     url: http://www.joshtybur.com/
+
+"Uskul":
+  - firstname: ["Ayse", "Ayse K."]
+    url: https://profiles.sussex.ac.uk/p106275-ayse-uskul
 
 "Van Lange":
   - firstname: ["Paul", "Paul A. M."]
