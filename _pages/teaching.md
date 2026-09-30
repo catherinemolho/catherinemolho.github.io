@@ -8,11 +8,13 @@ nav: true
 
 ### Courses
 
-- [Behavioral and Experimental Economics](https://www.tse-fr.eu/sites/default/files/TSE/ecole/doc/syllabi/2024-2025/m1_s2_syllabus_behavioralexperimentaleconomics_molho_2024-2025.pdf){:target="\_blank"}, M1/S2, [Toulouse School of Economics](https://www.tse-fr.eu/){:target="\_blank"}, 2025; 2026.
+- [Behavioral and Experimental Economics](https://www.tse-fr.eu/sites/default/files/TSE/ecole/doc/syllabi/2024-2025/m1_s2_syllabus_behavioralexperimentaleconomics_molho_2024-2025.pdf){:target="\_blank"}, M1, [Toulouse School of Economics](https://www.tse-fr.eu/){:target="\_blank"}, 2025; 2026.
+
+- [Introduction to Quantitative Social Sciences](https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/document/SYL_L1S1_IntroQSS.pdf){:target="\_blank"} (co-taught), L1, [Toulouse School of Economics](https://www.tse-fr.eu/){:target="\_blank"}, 2025; 2026.
+
+- [Nudges and the Psychology of Decision Making](https://www.tse-fr.eu/sites/default/files/TSE/ecole/doc/syllabi/2025-2026/l2_s1_nudge_molho_reynaud_2025-2026.pdf){:target="\_blank"} (co-taught), L2, [Toulouse School of Economics](https://www.tse-fr.eu/){:target="\_blank"}, 2025; 2026.
 
 - [Toulouse Summer School in Quantitative Social Sciences](https://www.tse-fr.eu/toulouse-summer-school-quantitative-social-sciences){:target="\_blank"}, 'The psychology of cooperation and norm enforcement', [Toulouse School of Economics](https://www.tse-fr.eu/){:target="\_blank"}, 2024; 2025; 2026.
-
-- [Nudges and the Psychology of Decision Making](https://www.tse-fr.eu/sites/default/files/TSE/ecole/doc/syllabi/2025-2026/l2_s1_nudge_molho_reynaud_2025-2026.pdf){:target="\_blank"}, L2/S1, [Toulouse School of Economics](https://www.tse-fr.eu/){:target="\_blank"}, 2025.
 
 - [Experience Sampling Methods to Study Social Psychology in the Field](https://kli.fss.uu.nl/courses/166){:target="\_blank"}, [Kurt Lewin Institute](https://kurtlewininstituut.nl/){:target="\_blank"}, 2024; 2025.
 
@@ -22,7 +24,7 @@ nav: true
 
 - [Expert Workshop I: Interdependence](https://studiegids.vu.nl/en/Master/2022-2023/rm-social-psychology/P_MEXPWRK_1#/){:target="\_blank"}, Research Master's in Social Psychology, [VU Amsterdam](https://vu.nl/en/education/master/social-psychology-research){:target="\_blank"}, 2023.
 
-- [Behavioural Business Ethics](https://studiegids.uva.nl/xmlpages/page/2021-2022/zoek-vak/vak/92750){:target="\_blank"} (co-taught with Shaul Shalvi), Master's Business Economics,  [University of Amsterdam](https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-economics-and-business/faculty-of-economics-and-business.html){:target="\_blank"}, 2022.
+- [Behavioural Business Ethics](https://studiegids.uva.nl/xmlpages/page/2021-2022/zoek-vak/vak/92750){:target="\_blank"} (co-taught), Master's Business Economics,  [University of Amsterdam](https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-economics-and-business/faculty-of-economics-and-business.html){:target="\_blank"}, 2022.
 
 - [Neuroeconomics](https://studiegids.uva.nl/xmlpages/page/2021-2022/zoek-vak/vak/92888){:target="\_blank"} (tutorials), Master's Business Economics & Master's Brain and Cognitive Sciences, [University of Amsterdam](https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-economics-and-business/faculty-of-economics-and-business.html){:target="\_blank"}, 2022.
 
